@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MineBuddiessandy.aternos.me",
+    "ip": "MineBuddiessandy.aternos.me:56424",
     "port": 56424,
     "version": "1.21.11"
   },
